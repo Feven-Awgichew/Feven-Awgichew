@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Feven Gurju. I am a third year cyber security student at Bahir Dar University.
 
 <!--
 **Feven-Awgichew/Feven-Awgichew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
